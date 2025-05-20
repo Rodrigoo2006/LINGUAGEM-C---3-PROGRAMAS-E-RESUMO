@@ -12,4 +12,4 @@ int main () {
     printf ("Resultado da Media: %.2f \n", vm);
    
     return 0;
-   
+}
